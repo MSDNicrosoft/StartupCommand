@@ -1,0 +1,5 @@
+name: StartupCommand
+version: '${project.version}'
+main: cn.msdnicrosoft.StartupCommand
+api-version: 1.13
+authors: [ MSDNicrosoft ]

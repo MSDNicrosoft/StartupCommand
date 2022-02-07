@@ -1,0 +1,6 @@
+# Write your commands below
+Commands:
+  - "say this is the first command"
+  - "say this is the second command"
+# Set delay for commands, in seconds
+Delay: 5
